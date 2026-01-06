@@ -6,8 +6,6 @@ Transform your screen into a powerful white light source with full control over 
 
 ## 📱 Application Screenshots
 
-Experience the intuitive and modern interface designed for seamless family task management:
-
 <p align="center">
   <img src="Screenshots/1.png" alt="MainScreen" width="150" />
   <img src="Screenshots/2.png" alt="Led Screen Light" width="150" />
