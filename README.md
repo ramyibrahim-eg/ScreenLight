@@ -2,7 +2,7 @@
 
 Transform your screen into a powerful white light source with full control over brightness, color tones, and timing.
 
-[![Google Play Store](https://img.shields.io/badge/Google%20Play-Download-blue?logo=google-play)](https://play.google.com/store/apps/details?id=com.xcodes.screenlight)
+[![Google Play Store](https://img.shields.io/badge/Google%20Play-Download-blue?logo=google-play)](https://play.google.com/store/apps/details?id=xcodes.website.screenlight)
 
 ## 📱 Application Screenshots
 
